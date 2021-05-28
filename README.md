@@ -70,4 +70,4 @@ Technologies used
 
 10. Conclusion
 
-Sources This project is part of AlmaBetter Curriculum.
+Sources: This project is part of AlmaBetter Curriculum.
