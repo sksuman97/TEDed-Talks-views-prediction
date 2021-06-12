@@ -87,3 +87,8 @@ Sumanta | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learn
 
 
 Contact me for Data Science Project Collaborations
+# References
+1. A Gentle Introduction to XGBoost for Applied Machine Learning by Jason Brownlee on August 17, 2016 in XGBoost Available- https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+2. wikipedia.org, XGBoost- https://en.wikipedia.org/wiki/XGBoost
+3. Target encoding- https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/target-encoding.html#:~:text=Target%20encoding%20is%20the%20process,by%20the%20target%20encoder%20model.&text=This%20can%20help%20improve%20machine,dealing%20with%20high%20cardinality%20columns.
+4. Medium target encoding- https://medium.com/analytics-vidhya/target-encoding-vs-one-hot-encoding-with-simple-examples-276a7e7b3e64
